@@ -1,4 +1,4 @@
-# The Odin Project | Project: Recipes
+![banner](./images/banner.png)
 ## Description
 The very first project from [The Odin Project](https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/recipes) curriculum
 
