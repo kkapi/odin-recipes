@@ -7,3 +7,4 @@ The website consists of a main index page which has links to a few recipes.
 ## Acquired skills
 - HTML basics
 - Git & GitHub basics
+- CSS basics

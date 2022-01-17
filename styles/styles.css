@@ -1,0 +1,41 @@
+body {
+    background-color: bisque;
+    font-size: 20px;
+    font-family: sans-serif;
+}
+
+h1 {
+    text-align: center;
+    font-size: 50px;
+    font-weight: bold;
+    text-decoration-line: underline;
+}
+
+h2 {
+    font-style: italic;
+    font-size: 35px;
+}
+
+img {
+    display: block;
+    margin: auto;
+}
+
+.book__img {
+    height: 500px;
+    width: auto;
+}
+
+.meal__img {
+    height: 400px;
+    width: auto;
+}
+
+li, a {
+    color: rgb(83, 83, 83);
+    font-style: normal;
+}
+
+.back__link {
+    font-size: 30px;
+}
